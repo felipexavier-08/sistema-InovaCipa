@@ -18,10 +18,6 @@ Este sistema nasceu da necessidade de modernizar o processo eleitoral da CIPA, q
 - [Funcionalidades](#-funcionalidades)
 - [Stack Tecnológica](#-stack-tecnológica)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Instalação](#-instalação)
-- [Configuração](#-configuração)
-- [Banco de Dados](#-banco-de-dados)
-- [Uso](#-uso)
 - [Segurança](#-segurança)
 
 
